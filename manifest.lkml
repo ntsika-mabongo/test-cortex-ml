@@ -9,7 +9,7 @@ constant: GCP_PROJECT {
 }
 
 constant: REPORTING_DATASET {
-  value: "deloitte-sandbox-373810.CORTEX_SAP_REPORTING"
+  value: "CORTEX_SAP_REPORTING"
   export: override_required
 }
 
