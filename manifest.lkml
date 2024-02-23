@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "deloitte-sandbox-connections"
+  value: "willy-demo"
   export: override_required
 }
 
